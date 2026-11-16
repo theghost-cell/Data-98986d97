@@ -1,0 +1,15 @@
+{
+    "banner_titulo": "¡Novedades en la tienda oficial de JAGames!",
+    "articulos": [
+        {
+            "nombre": "Playmat",
+            "estado": "No disponible",
+            "disponible": false
+        },
+        {
+            "nombre": "Mi Nuevo Juego RPG",
+            "estado": "Descargar",
+            "disponible": true
+        }
+    ]
+}
